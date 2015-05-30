@@ -1,6 +1,6 @@
 # Introducción
 
-Este repositorio alberga un *contenedor Docker* para montar un [Plex Media Server](https://plex.tv/), está automatizado en el Registry Hub de Docker [luispa/base-plex](https://registry.hub.docker.com/u/luispa/base-plex/) conectado con el proyecto en [GitHub base-plex](https://github.com/LuisPalacios/base-plex). Además, en este otro repositorio [servicio-plex](https://github.com/LuisPalacios/servicio-plex) verás un ejemplo sobre cómo arrancar este servicio usando fig.
+Este repositorio alberga un *contenedor Docker* para montar un [Plex Media Server](https://plex.tv/), está automatizado en el Registry Hub de Docker [luispa/base-plex](https://registry.hub.docker.com/u/luispa/base-plex/) conectado con el proyecto en [GitHub base-plex](https://github.com/LuisPalacios/base-plex). Consulta el [servicio-plex](https://github.com/LuisPalacios/servicio-plex), un ejemplo sobre cómo arrancar este servicio usando fig.
 
 Te recomiendo que consultes este [apunte técnico sobre varios servicios en contenedores Docker](http://www.luispa.com/?p=172) para tener una visión más global de otros contenedores Docker y fuentes en GitHub y entender mejor este ejemplo.
 
